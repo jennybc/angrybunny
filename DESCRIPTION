@@ -10,7 +10,7 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
-URL: https://github.com/jennybc/angrybunny
+URL: https://github.com/jennybc/angrybunny, https://jennybc.github.io/angrybunny/
 BugReports: https://github.com/jennybc/angrybunny/issues
 Suggests: 
     testthat (>= 3.0.0)
