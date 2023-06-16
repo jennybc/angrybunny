@@ -4,6 +4,8 @@
 # angrybunny
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/jennybc/angrybunny/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/jennybc/angrybunny/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of angrybunny is to make splitting one string easier.
